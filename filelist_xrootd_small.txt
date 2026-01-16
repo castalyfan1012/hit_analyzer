@@ -1,6 +1,0 @@
-root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/sbn/data_add/sbn_nd/poms_production/mc/MCP2025_FallValidation/v10_10_03_02/prodcorsika_proton_intime_sbnd/CV/calibntuples/4a/85/hist_reco2-bf372c9c-25f2-4f32-a72e-9d24cec50ea5.root
-root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/sbn/data_add/sbn_nd/poms_production/mc/MCP2025_FallValidation/v10_10_03_02/prodcorsika_proton_intime_sbnd/CV/calibntuples/52/48/hist_reco2-7400f5a1-0189-458c-826e-86eec742f4be.root
-root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/sbn/data_add/sbn_nd/poms_production/mc/MCP2025_FallValidation/v10_10_03_02/prodcorsika_proton_intime_sbnd/CV/calibntuples/39/d7/hist_reco2-98b00872-ba4b-4cc8-9535-c37af59f0c51.root
-root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/sbn/data_add/sbn_nd/poms_production/mc/MCP2025_FallValidation/v10_10_03_02/prodcorsika_proton_intime_sbnd/CV/calibntuples/82/5e/hist_reco2-e19a6322-dcdf-497e-af50-186dabe40b50.root
-root://fndcadoor.fnal.gov:1094/pnfs/fnal.gov/usr/sbn/data_add/sbn_nd/poms_production/mc/MCP2025_FallValidation/v10_10_03_02/prodcorsika_proton_intime_sbnd/CV/calibntuples/27/a8/hist_reco2-70fae058-2e47-41af-b7af-a9e1bddc5331.root
-
